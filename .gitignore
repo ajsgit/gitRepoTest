@@ -1,0 +1,9 @@
+#compiled source #
+###################
+*.class
+
+#folders
+classes/
+.settings/
+.project
+.classpath
